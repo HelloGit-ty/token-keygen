@@ -1,2 +1,3 @@
 # token-keygen
-A small py script to generate secure API keys or auth tokens.
+## Installation:-
+git clone and run using python3. The output will be written to a file in the same directory as the script. 
